@@ -18,12 +18,12 @@ from urllib.parse import urljoin, urlparse, parse_qs
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8934181403:AAEZlvu1aUgkKOC6WQNoKyG0pwap5tDima4"
+TOKEN = "8719190261:AAFRCWMstvNtQznVJaUVDl3S9cWRJXjATFg"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
 OWNER_ID = 8487924994
-BOT_USERNAME = ""
+BOT_USERNAME = "@Super_Number_santo_bot"
 DB_FILE = "bot_data.json"
 
 # ==========================================
