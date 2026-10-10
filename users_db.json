@@ -1,0 +1,26 @@
+{
+  "8394631198": {
+    "user_id": 8394631198,
+    "balance": 500.30000000000007,
+    "total_refers": 0,
+    "total_otps": 3,
+    "banned": false,
+    "verified": false
+  },
+  "8487924994": {
+    "user_id": 8487924994,
+    "balance": 3.600000000000002,
+    "total_refers": 0,
+    "total_otps": 36,
+    "banned": false,
+    "verified": false
+  },
+  "7959537584": {
+    "user_id": 7959537584,
+    "balance": 0.0,
+    "total_refers": 0,
+    "total_otps": 0,
+    "banned": false,
+    "verified": false
+  }
+}
